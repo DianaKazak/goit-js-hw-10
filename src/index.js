@@ -70,3 +70,4 @@ function clearHTML() {
     countryList.innerHTML = '';
     countryInfo.innerHTML = '';
 }
+
